@@ -1,3 +1,3 @@
-token = '1059333408:AAEJBeef3jkW3VoJKej7wUmwGC1FZkN11sQ'
+token = '1045645694:AAEGWBfa-_6dJnTOBc3GWKp77xQ9tDW01nI'
 admins = {569763743, }
 words_file = "wrds.txt"
